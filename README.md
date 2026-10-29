@@ -5,6 +5,8 @@
 
 # Kodi Backup Plus
 
+[![Vibe Coded](https://img.shields.io/badge/Vibe_Coded-✨-8A2BE2?style=for-the-badge)](https://github.com)
+
 An enhanced version of the Kodi backup addon with additional features for comprehensive system backup.
 
 ## Features
